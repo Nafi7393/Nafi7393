@@ -27,13 +27,16 @@ I am a dedicated Mechanical Engineering student with a broad skill set across di
 - **Custom Software Development**: Building bespoke software applications tailored to specific business and engineering needs.
 - **Data Analysis**: Utilizing Python and MATLAB for in-depth data analysis and visualization in engineering projects.
 - **Machine Learning Applications**: Implementing algorithms for predictive modeling and pattern recognition.
-- **CAD/CAM Design**: Proficiency in CAD software for mechanical design and CAM for manufacturing processes.
-- **IoT Integration**: Developing solutions that integrate IoT devices for data-driven insights and automation.
-- **Project Management**: Leading cross-functional teams and managing projects from conception to delivery.
-- **Technical Writing**: Communicating complex ideas effectively through technical documentation and reports.
 - **Continuous Learning**: Actively pursuing new skills and certifications to stay abreast of emerging technologies and trends.
 
-My goal is to leverage these skills to contribute effectively to innovative projects and drive technological advancements in the field of Mechanical Engineering.
+
+
+---
+
+
+### My Goal
+
+My goal is to leverage my expertise in Python development, where I excel in crafting efficient solutions and automation tools that optimize processes and enhance productivity. With a strong passion for AI art creation using platforms like Midjourney, I specialize in generating intricate and visually stunning artworks through innovative algorithms. By merging these skills, I aim to spearhead transformative projects that integrate cutting-edge technology with Mechanical Engineering principles. I am driven to contribute to advancements in automation, data-driven decision-making, and the seamless integration of AI in industrial applications, thereby pushing the boundaries of innovation in the field.
 
 
 

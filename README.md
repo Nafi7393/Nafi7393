@@ -66,7 +66,7 @@ I am a dedicated Mechanical Engineering student with a broad skill set across di
 
 
 <div align="center">
-  <p style="font-size: 240px;">Thanks for dropping by!</p>
+  <p font-size="240px">Thanks for dropping by!</p>
   <p>Feel free to reach out for collaborations, discussions, or just to say hello.</p>
 </div>
 

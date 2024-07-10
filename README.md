@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKzmo4G0blGxgUE/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100%"/>
   <h1>Hi, I'm Naich Naznafi 👋</h1>
   <p>
     <em>Mechanical Engineering Student | Innovative Python Developer | AI Art Creator - Midjourney | Graphics Designer - Photoshop & Illustrator | Custom Software Developer - Automation | Tech Enthusiast - Prompt Engineer</em>
@@ -41,6 +41,5 @@ I'm a Mechanical Engineering student with a diverse skill set that spans multipl
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
   <p>Thanks for stopping by! 😄</p>
 </div>

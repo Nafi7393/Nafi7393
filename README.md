@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKzmo4G0blGxgUE/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7TKzmo4G0blGxgUE/giphy.gif" width="100%"/>
   <h1>Hi, I'm Naich Naznafi 👋</h1>
   <p>
     <em>Passionate Developer | Python Enthusiast | Web Developer</em>
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 </div>
 
 ---
@@ -36,6 +36,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
   <p>Thanks for stopping by! 😄</p>
 </div>

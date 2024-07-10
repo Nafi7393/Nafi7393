@@ -24,12 +24,6 @@ I'm a Mechanical Engineering student with a diverse skill set that spans multipl
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-</div>
-
----
-
 ### Let's Connect
 
 <p align="center">

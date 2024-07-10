@@ -41,7 +41,6 @@ I'm a Mechanical Engineering student with a diverse skill set that spans multipl
 ---
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px;">
-  <p style="font-size: 1.2em; color: #555; text-shadow: 1px 1px 1px #ccc;">Thanks for stopping by! 😄</p>
-  <p style="font-size: 0.8em; color: #888;">Feel free to connect with me through the links above.</p>
+  <p style="font-size: 24px; font-weight: bold; color: #333;">Thanks for dropping by! 🚀</p>
 </div>
 

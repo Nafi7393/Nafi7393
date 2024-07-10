@@ -37,7 +37,9 @@ I am a dedicated Mechanical Engineering student with a broad skill set across di
 ### My Goal
 
 <p align="justify">
-My goal is to leverage my expertise in Python development, where I excel in crafting efficient solutions and automation tools that optimize processes and enhance productivity. With a strong passion for AI art creation using platforms like Midjourney, I specialize in generating intricate and visually stunning artworks through innovative algorithms. By merging these skills, I aim to spearhead transformative projects that integrate cutting-edge technology with Mechanical Engineering principles. I am driven to contribute to advancements in automation, data-driven decision-making, and the seamless integration of AI in industrial applications, thereby pushing the boundaries of innovation in the field.
+- My goal is to leverage expertise in Python development to craft efficient solutions and automation tools, optimizing processes and productivity.
+- Specialize in AI art creation using platforms like Midjourney, adept at generating intricate and visually stunning artworks through innovative algorithms.
+- Aim to drive technological advancements in Mechanical Engineering by integrating cutting-edge technology with AI and automation principles.
 </p>
 
 

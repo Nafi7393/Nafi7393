@@ -40,7 +40,7 @@ I'm a Mechanical Engineering student with a diverse skill set that spans multipl
 
 ---
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px;">
-  <p style="font-size: 24px; font-weight: bold; color: #333;">Thanks for dropping by! 🚀</p>
+<div align="center">
+  <h2>Thanks for dropping by!</h2>
 </div>
 

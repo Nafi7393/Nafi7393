@@ -15,13 +15,35 @@
 
 ### About Me
 
-I'm a Mechanical Engineering student with a diverse skill set that spans multiple domains. My passions include:
+<p style="font-size: 18px; color: #333; margin-bottom: 10px;">Hey there, I'm Naich Naznafi, a Mechanical Engineering student with a passion for technology and creativity. Here's a glimpse into what fuels my enthusiasm:</p>
 
-- **Python Development**: Crafting innovative solutions and automation tools.
-- **AI Art Creation**: Utilizing Midjourney to generate stunning AI art.
-- **Graphic Design**: Proficient with Photoshop and Illustrator to create captivating designs.
-- **Custom Software Development**: Building tailored software solutions for various needs.
-- **Tech Enthusiasm**: Constantly exploring new technologies and enhancing my prompt engineering skills.
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="margin-bottom: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" style="vertical-align: middle; margin-right: 10px;">
+    <strong>Python Development:</strong> Crafting innovative solutions and automation tools to streamline processes.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <img src="https://img.icons8.com/dusk/64/000000/ai.png" style="vertical-align: middle; margin-right: 10px;">
+    <strong>AI Art Creation:</strong> Harnessing Midjourney to produce captivating AI-generated artworks.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <img src="https://img.icons8.com/plasticine/100/000000/graphic-design.png" style="vertical-align: middle; margin-right: 10px;">
+    <strong>Graphic Design:</strong> Proficiency in Photoshop and Illustrator for creating visually appealing designs.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/software-developer.png" style="vertical-align: middle; margin-right: 10px;">
+    <strong>Custom Software Development:</strong> Building tailored software solutions to meet diverse needs effectively.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/idea.png" style="vertical-align: middle; margin-right: 10px;">
+    <strong>Constant Innovation:</strong> Passionate about exploring new technologies and enhancing my prompt engineering skills.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/rocket.png" style="vertical-align: middle; margin-right: 10px;">
+    <strong>Future-focused:</strong> Eager to contribute to cutting-edge advancements in engineering and technology.
+  </li>
+</ul>
+
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="matrix.gif" width="100%"/>
   <h1>Hi, I'm Naich Naznafi 👋</h1>
-  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=abusaeed2433&label=Profile%20views&color=0e75b6&style=flat" alt="abusaeed2433" /> </p>
+  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=Nafi7393&label=Profile%20views&color=0e75b6&style=flat" alt="Nafi7393" /> </p>
   <p>
     <em>Mechanical Engineering Student | Innovative Python Developer | AI Art Creator - Midjourney | Graphics Designer - Photoshop & Illustrator | Custom Software Developer - Automation | Tech Enthusiast - Prompt Engineer</em>
   </p>
@@ -41,6 +41,11 @@ I am a dedicated Mechanical Engineering student with a broad skill set across di
 - Specialize in AI art creation using platforms like Midjourney, adept at generating intricate and visually stunning artworks through innovative algorithms.
 - Aim to drive technological advancements in Mechanical Engineering by integrating cutting-edge technology with AI and automation principles.
 
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafi7393&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Nafi7393&locale=en" alt="GitHub Stats" />
+</p>
 
 
 ---

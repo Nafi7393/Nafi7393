@@ -1,6 +1,7 @@
 <div align="center">
   <img src="matrix.gif" width="100%"/>
   <h1>Hi, I'm Naich Naznafi 👋</h1>
+  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=abusaeed2433&label=Profile%20views&color=0e75b6&style=flat" alt="abusaeed2433" /> </p>
   <p>
     <em>Mechanical Engineering Student | Innovative Python Developer | AI Art Creator - Midjourney | Graphics Designer - Photoshop & Illustrator | Custom Software Developer - Automation | Tech Enthusiast - Prompt Engineer</em>
   </p>

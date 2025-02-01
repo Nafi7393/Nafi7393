@@ -43,9 +43,10 @@ I am a dedicated Mechanical Engineering student with a broad skill set across di
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafi7393&locale=en&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Nafi7393&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafi7393&locale=en&layout=compact" alt="Top Languages" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nafi7393&locale=en" alt="GitHub Stats" height="195"/>
 </p>
+
 
 
 ---

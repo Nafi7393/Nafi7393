@@ -73,17 +73,8 @@ I’m a Mechanical Engineering student who loves exploring how tech can make lif
   />
 </p>
 
-<p align="center">
-  <!-- Trophies -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Nafi7393&margin-w=15&margin-h=15&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
 
----
-
-## Languages & Tools
+#### Languages & Tools
 
 <p align="center">
   <!-- Python -->
@@ -105,18 +96,18 @@ I’m a Mechanical Engineering student who loves exploring how tech can make lif
 
 ---
 
-## Let’s Connect
+### Let's Connect
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nafi7393)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naich-naznafi/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nafi.ahmed.52493)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nafi_._65)
-[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/nafi779)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Nafi779)
-
-</div>
+<p align="center">
+    <a href="https://github.com/Nafi7393"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/naich-naznafi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/nafi.ahmed.52493"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/nafi_._65"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.deviantart.com/nafi779"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt"></a>
+  <a href="https://x.com/Nafi779"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
 ---
 

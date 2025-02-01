@@ -74,7 +74,6 @@ I’m a Mechanical Engineering student who loves exploring how tech can make lif
 </p>
 
 
-#### Languages & Tools
 
 <p align="center">
   <!-- Python -->

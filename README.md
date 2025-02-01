@@ -1,79 +1,126 @@
 <div align="center">
-  <img src="matrix.gif" width="100%"/>
+  <!-- Animated or static banner/gif -->
+  <img src="matrix.gif" width="100%" alt="Animated Banner"/>
   <h1>Hi, I'm Naich Naznafi 👋</h1>
-  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=Nafi7393&label=Profile%20views&color=0e75b6&style=flat" alt="Nafi7393" /> </p>
   <p>
-    <em>Mechanical Engineering Student | Innovative Python Developer | AI Art Creator - Midjourney | Graphics Designer - Photoshop & Illustrator | Custom Software Developer - Automation | Tech Enthusiast - Prompt Engineer</em>
+    <em>Mechanical Engineering Student | Python Developer | AI Art Creator | Graphics Designer | Automation & Custom Software Specialist</em>
   </p>
-  <p>
-    <a href="mailto:nafi7393@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://wa.me/+8801909132155"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-    <a href="https://t.me/+8801909132155"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  </p>
+
+  <!-- Profile visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=Nafi7393&label=Visitors&color=0e75b6&style=flat" alt="Profile Visitors" />
+
+  <!-- Quick contact badges -->
+  <br><br>
+  <a href="mailto:nafi7393@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/+8801909132155">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/+8801909132155">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </div>
 
+---
 
+## About Me
+
+I’m a Mechanical Engineering student who loves exploring how tech can make life simpler. When I’m not in class, I’m building Python projects, experimenting with AI-based art, and sharpening my design skills in Photoshop and Illustrator. I enjoy creating solutions that blend art, data, and automation. Below are a few highlights:
+
+- **Python Development**: Building straightforward automation scripts, data tools, and web backends.
+- **AI Art**: Creating unique pieces with Midjourney and other AI platforms.
+- **Graphics**: Working with Photoshop and Illustrator to craft clear and eye-catching designs.
+- **Software Projects**: Designing custom applications for mechanical concepts, data analytics, and automation.
+- **Data Analysis**: Applying Python and MATLAB to handle engineering data and produce visual reports.
+- **Machine Learning**: Applying algorithms for predictive tasks and pattern recognition.
+- **Ongoing Curiosity**: Always keen to learn new frameworks, libraries, and methods in both tech and engineering fields.
 
 ---
 
+## Goals & Interests
 
-
-### About Me
-
-I am a dedicated Mechanical Engineering student with a broad skill set across diverse domains. My expertise and passions include:
-
-- **Python Development**: Crafting efficient solutions and automation tools to streamline processes.
-- **AI Art Creation**: Harnessing Midjourney to produce intricate AI-generated artworks.
-- **Graphic Design**: Proficient in Adobe Photoshop and Illustrator, creating visually compelling designs and multimedia content.
-- **Custom Software Development**: Building bespoke software applications tailored to specific business and engineering needs.
-- **Data Analysis**: Utilizing Python and MATLAB for in-depth data analysis and visualization in engineering projects.
-- **Machine Learning Applications**: Implementing algorithms for predictive modeling and pattern recognition.
-- **Continuous Learning**: Actively pursuing new skills and certifications to stay abreast of emerging technologies and trends.
-
-
+- **Grow in Python**: I’m focused on writing cleaner, faster code to solve everyday problems.
+- **Explore AI Art**: I’m fascinated by the way AI sparks fresh ideas in graphic design.
+- **Bridge Tech & Engineering**: I hope to merge mechanical engineering with automated systems and data-driven models.
+- **Share & Collaborate**: I enjoy working with folks who value creativity and new perspectives.
 
 ---
 
-
-### My Goal
-
-- Leverage expertise in Python development to craft efficient solutions and automation tools, optimizing processes and productivity.
-- Specialize in AI art creation using platforms like Midjourney, adept at generating intricate and visually stunning artworks through innovative algorithms.
-- Aim to drive technological advancements in Mechanical Engineering by integrating cutting-edge technology with AI and automation principles.
-
+## GitHub Highlights
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafi7393&locale=en&layout=compact" alt="Top Languages" height="195"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Nafi7393&locale=en" alt="GitHub Stats" height="195"/>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Nafi7393&show_icons=true&locale=en&layout=compact"
+    alt="Top Languages"
+    height="180"
+  />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nafi7393&show_icons=true&locale=en"
+    alt="GitHub Stats"
+    height="180"
+  />
 </p>
 
+<p align="center">
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nafi7393&theme=default"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
 
+<p align="center">
+  <!-- Trophies -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Nafi7393&margin-w=15&margin-h=15&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
-
-
-### Let's Connect
+## Languages & Tools
 
 <p align="center">
-    <a href="https://github.com/Nafi7393"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/naich-naznafi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <!-- Flask -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <!-- MATLAB -->
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <!-- Adobe -->
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <!-- HTML, CSS, JS -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
-<p align="center">
-  <a href="https://www.facebook.com/nafi.ahmed.52493"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/nafi_._65"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.deviantart.com/nafi779"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt"></a>
-  <a href="https://x.com/Nafi779"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-</p>
-
-
 
 ---
 
-
+## Let’s Connect
 
 <div align="center">
-  <p><b><i>Thanks for dropping by!</i></b></p>
-  <p>Feel free to reach out for collaborations, discussions, or just to say hello.</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nafi7393)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naich-naznafi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nafi.ahmed.52493)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nafi_._65)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/nafi779)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Nafi779)
+
 </div>
 
+---
+
+<div align="center">
+  <p><b><i>Thanks for stopping by!</i></b></p>
+  <p>I’m always open to learning and sharing. Chat anytime if you’d like to connect, collaborate, or just talk shop.</p>
+</div>
